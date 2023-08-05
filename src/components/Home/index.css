@@ -5,3 +5,10 @@
   align-items: center;
   width: 100%;
 }
+.profile-image {
+  width: 150px;
+}
+.list-container {
+  padding: 0px;
+  margin: 0px;
+}

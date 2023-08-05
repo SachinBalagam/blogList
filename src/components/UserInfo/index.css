@@ -1,1 +1,24 @@
 /* Write your CSS code here */
+.each-list {
+  list-style-type: none;
+}
+.name-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #12022f;
+}
+.date {
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+.line {
+  border: 1px solid #9aa5b1;
+}
